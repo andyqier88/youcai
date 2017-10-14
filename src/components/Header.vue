@@ -12,7 +12,8 @@
           <ul class="navbar">
             <li><a href="/index.html">首页</a></li>
             <li><a href="/html/news.html">新闻</a></li>
-            <li><a href="/html/talent_platfor.html">人才平台</a></li>
+            <!-- <li><a href="/html/talent_platfor.html" v-link="">人才平台</a></li> -->
+            <li><router-link to="/talent_platfor">人才平台</router-link></li>
             <li><a href="/html/talent_bank.html">人才银行</a></li>
             <li><a href="/html/education_supermarket.html">教育超市</a></li>
             <li><a href="/html/about.html">关于我们</a></li>
