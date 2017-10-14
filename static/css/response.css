@@ -1,0 +1,2319 @@
+/**/
+.news_list{
+            width: 1020px;
+            height: 230px;
+            margin: 0 auto;
+            margin-top: 30px;
+            display: box;
+            display: flex;
+            display: -webkit-box; /* OLD - iOS 6-, Safari 3.1-6 */
+            display: -moz-box; /* OLD - Firefox 19- (buggy but mostly works) */
+            display: -ms-flexbox; /* TWEENER - IE 10 */
+            display: -webkit-flex; /* NEW - Chrome */
+         }
+        .list_img{
+            width: 334px;
+            height: 230px;
+            float: left;
+         }
+       .new_detail{
+                    width: 760px;
+                    margin: 0 auto;
+                }  
+@media screen (min-width: 1666px){
+    .common_right p {
+        width: 600px;
+        text-align: center;
+    }
+    .left img{
+	width: 370px;
+}
+.left_two img{
+        width: 370px;
+    }
+    .left_three img{
+        width: 370px;
+    }
+    .left_four img{
+        width: 370px;
+    }
+    .left_five img{
+        width: 370px;
+    }
+    .common_right_bottom img{
+        width: 400px;
+    }
+    .news_list{
+            width: 1020px;
+            height: 230px;
+            margin: 0 auto;
+            margin-top: 30px;
+            display: box;
+        display: flex;
+        display: -webkit-box; /* OLD - iOS 6-, Safari 3.1-6 */
+        display: -moz-box; /* OLD - Firefox 19- (buggy but mostly works) */
+        display: -ms-flexbox; /* TWEENER - IE 10 */
+        display: -webkit-flex; /* NEW - Chrome */
+         }
+         .list_img{
+            width: 334px;
+            height: 230px;
+         }
+         .list_word{
+            box-shadow:0 2px 20px #000000;
+            width: 686px;
+         }
+         .list_title{
+            margin-left: 20px;
+            margin-right: 20px;
+            
+         }
+         .list_title h3{
+            font-size: 24px;
+         }
+         .list_title p{
+            line-height: 32px;
+            font-size: 18px;
+         }
+         .list_title span{
+            display: inline-block;
+            font-size: 16px;
+            color: #808080;
+         }
+}
+@media (min-width: 1465px)  {
+    .news_list{
+            width: 1020px;
+            height: 230px;
+            margin: 0 auto;
+            margin-top: 30px;
+            display: box;
+        display: flex;
+        display: -webkit-box; /* OLD - iOS 6-, Safari 3.1-6 */
+        display: -moz-box; /* OLD - Firefox 19- (buggy but mostly works) */
+        display: -ms-flexbox; /* TWEENER - IE 10 */
+        display: -webkit-flex; /* NEW - Chrome */
+         }
+        .list_img{
+            width: 334px;
+            height: 230px;
+         }
+         .list_word{
+            box-shadow:0 2px 20px #000000;
+            width: 686px;
+         }
+         .list_title{
+            margin-left: 20px;
+            margin-right: 20px;
+            
+         }
+         .list_title h3{
+            font-size: 24px;
+         }
+         .list_title p{
+            line-height: 32px;
+            font-size: 18px;
+         }
+         .list_title span{
+            display: inline-block;
+            font-size: 16px;
+            color: #808080;
+         }
+    .super {
+        position: absolute;
+        left: 89.5%;
+        top: 88%;
+        z-index: 43;
+    }
+    .right{
+       float: none;
+   }
+   .common_right p {
+    width: 600px;
+    text-align: center;
+}
+.left img{
+	width: 370px;
+}
+.left_two img{
+        width: 370px;
+    }
+    .left_three img{
+        width: 370px;
+    }
+    .left_four img{
+        width: 370px;
+    }
+    .left_five img{
+        width: 370px;
+    }
+    .common_right_bottom img{
+        width: 400px;
+    }
+}
+/**/
+@media (min-width: 1198px) and (max-width: 1464px) {
+    .news_list{
+            width: 1020px;
+            height: 230px;
+            margin: 0 auto;
+            margin-top: 30px;
+            display: box;
+            display: flex;
+            display: -webkit-box; 
+            display: -moz-box; /* OLD - Firefox 19- (buggy but mostly works) */
+            display: -ms-flexbox; /* TWEENER - IE 10 */
+            display: -webkit-flex; /* NEW - Chrome */
+         }
+         .list_img{
+            width: 334px;
+            height: 230px;
+         }
+         .list_word{
+            box-shadow:0 2px 20px #000000;
+            width: 686px
+         }
+         .list_title{
+            margin-left: 20px;
+            margin-right: 20px;
+            
+         }
+         .list_title h3{
+            font-size: 24px;
+         }
+         .list_title p{
+            line-height: 32px;
+            font-size: 18px;
+         }
+         .list_title span{
+            display: inline-block;
+            font-size: 16px;
+            color: #808080;
+         }
+    .right{
+       float: none;
+   }
+   .super{
+       display: none;
+   }
+   .common_right p {
+    width: 600px;
+    text-align: center;
+}
+.header_wraper{
+	max-width: 1080px;
+}
+.cert_container {
+    max-width: 1025px;
+}
+.common_right_bottom {
+    width: 596px;
+    height: 586px;
+    margin-top: 40px;
+    margin-left: 0px;
+}
+.common_right {
+    margin-top: 45px;
+}
+.four_cert li {
+    float: left;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-size: 30px;
+}
+.left img{
+	width: 340px;
+}
+.left_two img{
+        width: 340px;
+    }
+    .left_three img{
+        width: 340px;
+    }
+    .left_four img{
+        width: 340px;
+    }
+    .left_five img{
+        width: 340px;
+    }
+    .down_scan img{
+    	width:200px;
+    }
+     .down_btn img{
+    	width: 150px;
+    }
+    .common_right_bottom img{
+        width: 400px;
+    }
+     .right_bottom{
+    	margin-left: 60px;
+    }
+}
+/**/
+@media (min-width: 1110px) and (max-width: 1197px){
+    .news_list{
+            width: 1020px;
+            height: 230px;
+            margin: 0 auto;
+            margin-top: 30px;
+            display: box;
+        display: flex;
+        display: -webkit-box; /* OLD - iOS 6-, Safari 3.1-6 */
+        display: -moz-box; /* OLD - Firefox 19- (buggy but mostly works) */
+        display: -ms-flexbox; /* TWEENER - IE 10 */
+        display: -webkit-flex; /* NEW - Chrome */
+         }
+         .list_img{
+            width: 334px;
+            height: 230px;
+         }
+         .list_word{
+            box-shadow:0 2px 20px #000000;
+            width: 686px;
+         }
+         .list_title{
+            margin-left: 20px;
+            margin-right: 20px;
+            
+         }
+         .list_title h3{
+            font-size: 24px;
+         }
+         .list_title p{
+            line-height: 32px;
+            font-size: 18px;
+         }
+         .list_title span{
+            display: inline-block;
+            font-size: 16px;
+            color: #808080;
+         }
+    .right{
+       float: none;
+   }
+   .super{
+       display: none;
+   }
+   .four_cert li {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.cert_container {
+    max-width: 990px;
+}
+.common_right p {
+    width: 600px;
+    text-align: center;
+}
+.common_right {
+    margin-left: 494px;
+    text-align: left;
+}
+.common_right_bottom {
+    margin-left: 90px;
+}
+.header_wraper{
+	max-width: 1024px;
+}
+.left img{
+	width: 340px;
+}
+
+.left_two img{
+        width: 340px;
+    }
+    .left_three img{
+        width: 340px;
+    }
+    .left_four img{
+        width: 340px;
+    }
+    .left_five img{
+        width: 340px;
+    }
+     .down_scan img{
+    	width:200px;
+    }
+     .down_btn img{
+    	width: 150px;
+    }
+    .common_right_bottom img{
+        width:400px;
+    }
+    .right_bottom{
+    	margin-left: 60px;
+    }
+    
+   
+}
+/**/
+@media (min-width: 1035px) and (max-width: 1109px){
+    .news_list{
+            width: 1020px;
+            height: 230px;
+            margin: 0 auto;
+            margin-top: 30px;
+            display: box;
+        display: flex;
+        display: -webkit-box; /* OLD - iOS 6-, Safari 3.1-6 */
+        display: -moz-box; /* OLD - Firefox 19- (buggy but mostly works) */
+        display: -ms-flexbox; /* TWEENER - IE 10 */
+        display: -webkit-flex; /* NEW - Chrome */
+         }
+         .list_img{
+            width: 334px;
+            height: 230px;
+         }
+         .list_word{
+            box-shadow:0 2px 20px #000000;
+            width: 651px;
+         }
+         .list_title{
+            margin-left: 20px;
+            margin-right: 20px;
+            
+         }
+         .list_title h3{
+            font-size: 24px;
+         }
+         .list_title p{
+            line-height: 32px;
+            font-size: 18px;
+         }
+         .list_title span{
+            display: inline-block;
+            font-size: 16px;
+            color: #808080;
+         }
+    .left{
+      width: 200px;
+  }
+  .super{
+   display: none;
+}
+.common_right p {
+    text-align: center;
+    width: auto;
+}
+.common_right_bottom {
+    display: inline-block;
+    width: 506px;
+    height: 586px;
+    margin-top: 40px;
+    margin-left: -75px;
+}
+.common_right {
+    margin-top: 60px;
+}
+.four_cert li{
+	margin-left: 15px;
+    margin-right: 15px;
+}
+.down_scan{
+    margin-left: 25px;
+    margin-right: 78px;
+}
+.cert_container {
+    max-width: 960px;
+}
+.header_wraper{
+	max-width: 980px;
+}
+.common_right {
+    margin-left: 448px;
+}
+.left img{
+	width: 340px;
+}
+.left_two img{
+        width: 340px;
+    }
+    .left_three img{
+        width: 340px;
+    }
+    .left_four img{
+        width: 340px;
+    }
+    .left_five img{
+        width: 340px;
+    }
+     .down_scan img{
+    	width:200px;
+    }
+    .down_btn img{
+    	width: 150px;
+    }
+     .bn_img{
+    	width: 200px;
+    }
+    .ban_b {
+    	width: 200px;
+    	height: 90px;
+    }
+    .name_show{
+    	bottom: 50px;
+    }
+    .common_right_bottom img{
+        width: 350px;
+    }
+     .right_bottom{
+    	margin-left: 60px;
+    }
+}
+/*
+*/
+@media (min-width: 991px) and (max-width: 1034px){
+    .news_list{
+            width: 985px;
+            height: 230px;
+            margin: 0 auto;
+            margin-top: 30px;
+            display: box;
+        display: flex;
+        display: -webkit-box; /* OLD - iOS 6-, Safari 3.1-6 */
+        display: -moz-box; /* OLD - Firefox 19- (buggy but mostly works) */
+        display: -ms-flexbox; /* TWEENER - IE 10 */
+        display: -webkit-flex; /* NEW - Chrome */
+         }
+          .list_img{
+            width: 334px;
+            height: 230px;
+         }
+         .list_word{
+            box-shadow:0 2px 20px #000000;
+            width: 686px;
+         }
+         .list_title{
+            margin-left: 20px;
+            margin-right: 20px;
+            
+         }
+         .list_title h3{
+            font-size: 24px;
+         }
+         .list_title p{
+            line-height: 32px;
+            font-size: 18px;
+         }
+         .list_title span{
+            display: inline-block;
+            font-size: 16px;
+            color: #808080;
+         }
+    .right{
+        float: none;
+        margin-left: -20px;
+    }
+    .common_right {
+        margin-left: 465px;
+    }
+    .common_right p{
+        width: auto;
+    }
+    .common_right_top {
+        margin-top: 46px;
+    }
+    .common_right_bottom {
+        width: 482px;
+        margin-top: 34px;
+        margin-left: -32px;
+    }
+    .cert_container {
+        max-width: 940px;
+    }
+    .four_cert li {
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .header_wraper{
+        max-width: 945px;
+    }
+    .left img{
+    	width: 340px;
+    }
+    .left_two img{
+        width: 340px;
+    }
+    .left_three img{
+        width: 340px;
+    }
+    .left_four img{
+        width: 340px;
+    }
+    .left_five img{
+        width: 340px;
+    }
+      .down_scan img{
+    	width:200px;
+    }
+    .down_btn img{
+    	width: 150px;
+    }
+     .bn_img{
+    	width: 200px;
+    }
+    .ban_b{
+    	width: 200px;
+    	height: 90px;
+    }
+    .name_show{
+    	bottom: 50px;
+    }
+    .common_right_bottom img{
+        width: 350px;
+    }
+     .right_bottom{
+    	margin-left: 60px;
+    }
+
+}
+@media (min-width: 800px) and (max-width: 990px){
+    .news_list{
+            width: 798px;
+            height: 230px;
+            margin: 0 auto;
+            margin-top: 30px;
+            display: box;
+        display: flex;
+        display: -webkit-box; /* OLD - iOS 6-, Safari 3.1-6 */
+        display: -moz-box; /* OLD - Firefox 19- (buggy but mostly works) */
+        display: -ms-flexbox; /* TWEENER - IE 10 */
+        display: -webkit-flex; /* NEW - Chrome */
+         }
+         .list_img{
+            width: 334px;
+            height: 230px;
+         }
+         .list_word{
+            box-shadow:0 2px 20px #000000;
+            width: 424px;
+         }
+         .list_title{
+            // margin-left: 20px;
+            // margin-right: 20px;
+            
+         }
+         .list_title h3{
+            font-size: 18px;
+         }
+         .list_title p{
+            line-height: 32px;
+            font-size: 14px;
+         }
+         .list_title span{
+            display: inline-block;
+            font-size: 12px;
+            color: #808080;
+         }
+    .nav_icon{
+        display: inline-block;
+        float: right;
+    }
+    .navbar{
+        display: none;
+    }
+    .header_wraper {
+        max-width: 860px;
+    }
+    .container_right{
+    	margin-top: 15px;
+        width: 662px;
+    }
+    .phone_nav{
+    	top: 110px;
+    	height: 630px;
+    }
+    .right{
+        float: none;
+        margin-left: -20px;
+    }
+    .left img{
+        width: 350px;
+    }
+     .left_two img{
+        width: 350px;
+    }
+    .left_three img{
+        width: 350px;
+    }
+    .left_four img{
+        width: 350px;
+    }
+    .left_five img{
+        width: 350px;
+    }
+    .right{
+        width: 450px;
+    }
+    .down_scan img{
+        width: 150px;
+    }
+     .down_btn img{
+        width: 120px; 
+    }
+    .down_btn{
+        margin-top: 15px;
+        margin-left: 105px;
+    }
+    .common_right_bottom img{
+        width: 350px;
+    }
+    .common_right_bottom{
+        margin-left: -140px;
+    }
+    .common_right{
+        margin-left: 400px;
+    }
+    .common_right_top{
+        margin-left: -100px;
+    }
+    .common_right P{
+        width: 415px;
+    }
+    .four_cert img{
+        width: 100px;
+    }
+    .four_cert li{
+        font-size: 25px
+    }
+    .four_cert li{
+        margin-left: -22px;
+    }
+    .footer_wrap ul li a{
+        letter-spacing: 0px;
+    }
+     .bn_img{
+    	width: 160px;
+    }
+    .ban_b{
+    	width: 160px;
+    	height: 90px;
+    }
+   
+}
+@media (min-width: 751px) and (max-width: 799px){
+    
+        .nav_icon{
+        display: inline-block;
+            float: right;
+        }
+        .navbar{
+            display: none;
+        }
+        .header_wraper {
+            max-width: 860px;
+        }
+        .container_right{
+            margin-top: 15px;
+            width: 429px;
+        }
+        .phone_nav{
+            top: 110px;
+            height: 630px;
+        }
+        .right{
+            float: none;
+            margin-left: -20px;
+            padding-top: 0;
+        }
+        .right h2{
+            font-size: 37px;
+        }
+        .left img{
+            width:300px;
+        }
+         .left_two img{
+                width: 300px;
+            }
+            .left_three img{
+                width: 300px;
+            }
+            .left_four img{
+                width: 300px;
+            }
+            .left_five img{
+                width: 300px;
+            }
+
+        .right_top img{
+           
+            width: 60px;
+        }
+        .down_app_intro{
+            margin-left: 0;
+        }
+    .down_scan img{
+        width: 150px;
+    }
+     .down_btn img{
+        width: 120px; 
+    }
+    .down_btn{
+        margin-top: 15px;
+        margin-left: 25px;
+    }
+    .common_right_bottom img{
+        width: 350px;
+    }
+    .common_right_bottom{
+        margin-left: -200px;
+    }
+    .common_right{
+        margin-left: 400px;
+    }
+    .common_right_top{
+        margin-left: -185px;
+    }
+    .common_right P{
+        width: 376px;
+    }
+    .four_cert img{
+        width: 100px;
+    }
+    .four_cert li{
+        font-size: 25px
+    }
+    .four_cert li{
+        margin-left: 120px;
+    }
+    .footer_wrap ul li a{
+        letter-spacing: 0px;
+    }
+    .intro_word p{
+        font-size: 25px;
+    }
+    .footer_wrap ul li a:after{
+        margin-left: 7px;
+    }
+    .footer_wrap ul li{
+        margin-left: -10px;
+    }
+     .bn_img{
+    	width: 160px;
+    }
+    .ban_b{
+    	width: 160px;
+    	height: 90px;
+    }
+    .list_title p{
+        display: none;
+    }
+    .list_img{
+        width: 110px;
+        height: 85px;
+        background-size: cover;
+        background-position: center;
+        }
+    .list_title span{
+        font-size: 12px;
+    }
+    .news_list {
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 100%;
+    height: auto;
+    display: box;
+        display: flex;
+        display: -webkit-box; /* OLD - iOS 6-, Safari 3.1-6 */
+        display: -moz-box; /* OLD - Firefox 19- (buggy but mostly works) */
+        display: -ms-flexbox; /* TWEENER - IE 10 */
+        display: -webkit-flex; /* NEW - Chrome */
+    border-bottom: 1px solid #ccc;
+    margin-left: 15px;
+    padding-bottom: 10px;
+}
+.list_title h3{
+        font-size: 14px;
+    }
+    .list_title span{
+        font-size: 12px;
+    }
+    .new_detail{
+        width: 100%;
+    }
+    .n_detail{
+        padding: 15px;
+    }
+}
+@media (min-width: 600px) and (max-width: 750px){
+        .nav_icon{
+        display: inline-block;
+            float: right;
+        }
+        .navbar{
+            display: none;
+        }
+        .header_wraper {
+            max-width: 860px;
+        }
+        .container_right{
+            margin-top: 15px;
+        }
+        .phone_nav{
+            top: 110px;
+            height: 630px;
+        }
+        .right{
+            float: none;
+            margin-left: -20px;
+            padding-top: 0;
+        }
+        .right h2{
+            font-size: 37px;
+        }
+        .left img{
+            width: 240px;
+        }
+         .left_two img{
+                width: 240px;
+            }
+            .left_three img{
+                width: 240px;
+            }
+            .left_four img{
+                width: 240px;
+            }
+            .left_five img{
+                width: 240px;
+            }
+
+        .right_top img{
+           
+            width: 60px;
+        }
+        .down_app_intro{
+            margin-left: 0;
+        }
+    .down_scan img{
+        width: 150px;
+    }
+     .down_btn img{
+        width: 120px; 
+    }
+    .down_btn{
+        margin-top: 15px;
+        margin-left: 25px;
+    }
+    .common_right_bottom img{
+        width: 380px;
+    }
+    .common_right_bottom{
+        margin-left: -310px;
+    }
+    .common_right{
+        margin-left: 400px;
+    }
+    .common_right_top{
+        margin-left: -185px;
+    }
+    .common_right P{
+        width: 376px;
+    }
+    .four_cert img{
+        width: 100px;
+    }
+    .four_cert li{
+        font-size: 25px
+    }
+    .four_cert li{
+        margin-left: 70px;
+    }
+    .footer_wrap ul li a{
+        letter-spacing: 0px;
+    }
+    .intro_word p{
+        font-size: 25px;
+    }
+    .footer_wrap ul li a:after{
+        margin-left: 7px;
+    }
+    .footer_wrap ul li{
+        margin-left: -10px;
+    }
+     .bn_img{
+    	width: 140px;
+    }
+    .ban_b{
+    	width: 140px;
+    	height: 90px;
+    }
+    .list_title p{
+        display: none;
+    }
+    .list_img{
+        width: 110px;
+        height: 85px;
+        background-size: cover;
+        background-position: center;
+        }
+    .list_title span{
+        font-size: 12px;
+    }
+    .news_list {
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 100%;
+    height: auto;
+    display: box;
+        display: flex;
+        display: -webkit-box; /* OLD - iOS 6-, Safari 3.1-6 */
+        display: -moz-box; /* OLD - Firefox 19- (buggy but mostly works) */
+        display: -ms-flexbox; /* TWEENER - IE 10 */
+        display: -webkit-flex; /* NEW - Chrome */
+    border-bottom: 1px solid #ccc;
+    margin-left: 15px;
+    padding-bottom: 10px;
+}
+.list_title h3{
+        font-size: 14px;
+    }
+    .list_title span{
+        font-size: 12px;
+    }
+    .new_detail{
+        width: 100%;
+    }
+    .n_detail{
+        padding: 15px;
+    }
+}
+@media (min-width: 501px) and (max-width: 599px){
+   .nav_icon{
+        display: inline-block;
+        float: right;
+      }
+    .navbar{
+        display: none;
+    }
+    .about_nav{
+        width: 100%;
+        text-align: center;
+        margin-top: -50px;
+        border-bottom: 1px solid #000;
+        padding-bottom: 10px;
+        margin-top: 5px;
+    }
+    .about_nav  ul li{
+        float: left;
+        width: 33%;
+        border-bottom: none;
+        padding: 0;
+    }
+    .about_container{
+        display: inline-block;
+        width: 100%;
+    }
+    .container_right{
+        display: block;
+    }
+    .header_wraper{
+        height: 60px;
+        font-size: 18px;
+        font-family: "微软雅黑";
+        line-height: 60px;
+        max-width: 100%;
+        margin:0 auto;
+        padding-left: 15px;
+    }
+    .logo img{
+        // width: 120px;
+        // height: 30px;
+        // vertical-align: center;
+        display: none;
+    }
+    .logo{
+        margin: 0;
+        margin-top: 15px;
+        height: 50px;
+    }
+    .logo a{
+        background: url(../img/logo@2x.png);
+        display: inline-block;
+        background-size: contain;
+        background-repeat: no-repeat;
+        width: 155px;
+        height: 50px;
+    }
+    @keyframes mymove{
+        from {margin-left:-585px;opacity: 0}
+        to {margin-left:25%;opacity: 1}
+    }
+    @-webkit-keyframes mymove{
+        from {margin-left:-585px;opacity: 0}
+        to {margin-left:25%;opacity: 1}
+    }
+    @keyframes rightmove{
+        from {margin-right:-600px;opacity: 0}
+        to {margin-right:0;opacity: 1}
+    } 
+    @-webkit-keyframes rightmove{
+        from {margin-right:-600px;opacity: 0}
+        to {margin-right:0;opacity: 1}
+    }
+    @-webkit-keyframes .roate{
+        animation: mymove 4s forwards;
+        -webkit-animation:mymove 4s forwards;
+    }
+    .roate{
+        animation: mymove 4s forwards;
+        -webkit-animation:mymove 4s forwards;
+    }
+    .left,.left_two,.left_three,.left_five{
+        float: none;
+        position: absolute;
+        top: 560px;
+    }
+    .left_four{
+        float: none;
+        position: absolute;
+        top: 400px;
+    }
+    .left img{
+        width: 250px;
+    }
+    .left_two img{
+        width: 250px;
+    }
+    .left_three img{
+        width: 250px;
+    }
+    .left_four img{
+        width: 250px;
+    }
+    .left_five img{
+        width: 250px;
+    }
+  
+    .right{
+        float: none;
+        position: absolute;
+        top: 0;
+        padding-top: 0;
+        margin-left: 90px;
+        width: 100%;
+        height: 600px;
+        
+      
+    }
+    .right_top img{
+        width: 50px;
+    }
+    
+    .right_bottom{
+        position: absolute;
+        top: 250px;
+        
+    }
+    h2{
+        font-size: 30px;
+        border-bottom: 1px solid #000;
+        display: inline-block;
+        margin-bottom: 15px;
+    }
+    .down_app .down_app_intro p{
+        font-size: 20px;
+        margin-top: 10px;   
+    }
+    .down_app_intro{
+        margin-left: 0;
+    }
+    .down_btn{
+        margin-top: 20px;
+    }
+    .down_btn li:first-child{
+        margin-bottom: 20px;
+    }
+    .down_btn li img{
+        width: 120px;
+        height: 50px;
+    }
+    .down_scan img{
+        width: 160px;
+        height: 160px;
+    }
+    .common_right {
+        margin: 0 auto;
+    }
+    .inner_container{
+        padding-top: 20px;
+    }
+    .intro_word{
+      width: 100%;
+    }
+    .intro_word p{
+        font-size: 18px;
+    }
+    .common_right p{
+        width: 100%;
+    }
+    .common_right_bottom{
+        width: 370px;
+    }
+    .part_time{
+        height: 900px;
+    }
+    .part_time .left{
+        top: 450px;
+    }
+    .four_cert img{
+        width: 40px;
+        height: 40px;
+    }
+    .four_cert li{
+        margin-left: 7px;
+        margin-right: 30px;
+        font-size: 12px;
+    }
+    .four_cert li p{
+        margin-top: 15px;
+        white-space: nowrap;
+    }
+    .cert_title{
+        font-size: 24px;
+        height: 50px;
+        line-height: 50px;
+    }
+    .certificates{
+        height: auto;
+    }
+    footer{
+        height: 80px;
+        line-height: 80px;
+    }
+    .footer_wrap ul li a{
+        letter-spacing: 0;
+        font-size: 12px;
+        padding: 0;
+    }
+    .footer_wrap ul{
+        margin-bottom: 0;
+    }
+    .footer_wrap ul li a:after{
+        margin-left: 5px;
+    }
+    .super{
+       display: none;
+    }
+    .modal_content_self{
+        left: 15%;
+        width: auto;
+    }
+    .modal_dialog_self{
+        margin-left: -180px;
+    }
+    .modal-body .phone{
+        padding-left: 13%;
+    }
+    .modal-body .pass{
+        padding-left: 13%;
+    }
+    #reg_modal{
+        margin-left: -230px;
+    }
+    #findpass_modal{
+        margin-left: -230px;
+    }
+      .f1 span{
+        font-size: 35px;
+        line-height: 35px;
+    }
+    .f1{
+        height: 170px;
+    }
+    .poster{
+        padding-top: 20px;
+    }
+    .f1 em{
+        font-size: 25px;
+        padding-top: 10px;
+    }
+    .slogan{
+        padding-top: 0;
+    }
+     .phone_nav{
+        top: 60px;
+        height: 350px;
+    }
+    .bg_img{
+        width: 70px;
+        height: 70px;
+    }
+    .commen_input{
+        height: 50px;
+    }
+     .bn_img{
+    	width: 140px;
+    }
+    .ban_b{
+    	width: 140px;
+    	height: 90px;
+    }
+    .list_title p{
+        display: none;
+    }
+    .list_img{
+        width: 110px;
+        height: 85px;
+        background-size: cover;
+        background-position: center;
+        }
+    .news_list {
+        margin: 0 auto;
+        margin-top: 20px;
+        width: 100%;
+        height: auto;
+        display: box;
+        display: flex;
+        display: -webkit-box; /* OLD - iOS 6-, Safari 3.1-6 */
+        display: -moz-box; /* OLD - Firefox 19- (buggy but mostly works) */
+        display: -ms-flexbox; /* TWEENER - IE 10 */
+        display: -webkit-flex; /* NEW - Chrome */
+        border-bottom: 1px solid #ccc;
+        margin-left: 15px;
+        padding-bottom: 10px;
+    }
+    .list_title h3{
+        font-size: 14px;
+    }
+    .list_title span{
+        font-size: 12px;
+    }
+    .new_detail{
+        width: 100%;
+    }
+    .n_detail{
+        padding: 15px;
+    }
+}
+@media (min-width: 436px) and (max-width: 500px){
+    .nav_icon{
+        display: inline-block;
+        float: right;
+      }
+    .navbar{
+        display: none;
+    }
+    .about_nav{
+        width: 100%;
+        text-align: center;
+        margin-top: -50px;
+        border-bottom: 1px solid #000;
+        padding-bottom: 10px;
+        margin-top: 5px;
+    }
+    .about_nav  ul li{
+        float: left;
+        width: 33%;
+        border-bottom: none;
+        padding: 0;
+    }
+    .about_container{
+        display: inline-block;
+        width: 100%;
+    }
+    .container_right{
+        display: block;
+    }
+    .header_wraper{
+        height: 60px;
+        font-size: 18px;
+        font-family: "微软雅黑";
+        line-height: 60px;
+        max-width: 100%;
+        margin:0 auto;
+        padding-left: 15px;
+    }
+    .logo img{
+        // width: 120px;
+        // height: 30px;
+        // vertical-align: center;
+        display: none;
+    }
+    .logo{
+        margin: 0;
+        margin-top: 15px;
+        height: 50px;
+    }
+    .logo a{
+        background: url(../img/logo@2x.png);
+        display: inline-block;
+        background-size: contain;
+        background-repeat: no-repeat;
+        width: 155px;
+        height: 50px;
+    }
+    @keyframes mymove{
+        from {margin-left:-585px;opacity: 0}
+        to {margin-left:20%;opacity: 1}
+    }
+    @-webkit-keyframes mymove{
+        from {margin-left:-585px;opacity: 0}
+        to {margin-left:20%;opacity: 1}
+    }
+    @keyframes rightmove{
+        from {margin-right:-600px;opacity: 0}
+        to {margin-right:0;opacity: 1}
+    } 
+    @-webkit-keyframes rightmove{
+        from {margin-right:-600px;opacity: 0}
+        to {margin-right:0;opacity: 1}
+    }
+    @-webkit-keyframes  .roate{
+        animation: mymove 4s forwards;
+        -webkit-animation:mymove 4s forwards;
+    }
+    .roate{
+        animation: mymove 4s forwards;
+        -webkit-animation:mymove 4s forwards;
+    }
+    .left,.left_two,.left_three,.left_five{
+        float: none;
+        position: absolute;
+        top: 560px;
+    }
+    .left_four{
+        float: none;
+        position: absolute;
+        top: 400px;
+    }
+    .left img{
+        width: 250px;
+    }
+    .left_two img{
+        width: 250px;
+    }
+    .left_three img{
+        width: 250px;
+    }
+    .left_four img{
+        width: 250px;
+    }
+    .left_five img{
+        width: 250px;
+    }
+  
+    .right{
+        float: none;
+        position: absolute;
+        top: 0;
+        padding-top: 0;
+        margin-left: 40px;
+        width: 100%;
+        height: 600px;
+        
+      
+    }
+    .right_top img{
+        width: 50px;
+    }
+    
+    .right_bottom{
+        position: absolute;
+        top: 250px;
+        
+    }
+    h2{
+        font-size: 30px;
+        border-bottom: 1px solid #000;
+        display: inline-block;
+        margin-bottom: 15px;
+    }
+    .down_app .down_app_intro p{
+        font-size: 20px;
+        margin-top: 10px;   
+    }
+    .down_app_intro{
+        margin-left: 0;
+    }
+    .down_btn{
+        margin-top: 20px;
+    }
+    .down_btn li:first-child{
+        margin-bottom: 20px;
+    }
+    .down_btn li img{
+        width: 120px;
+        height: 50px;
+    }
+    .down_scan img{
+        width: 160px;
+        height: 160px;
+    }
+    .common_right {
+        margin: 0 auto;
+    }
+    .inner_container{
+        padding-top: 20px;
+    }
+    .intro_word{
+      width: 100%;
+    }
+    .intro_word p{
+        font-size: 18px;
+    }
+    .common_right p{
+        width: 100%;
+    }
+    .common_right_bottom{
+        width: 370px;
+    }
+    .part_time{
+        height: 900px;
+    }
+    .part_time .left{
+        top: 450px;
+    }
+    .four_cert img{
+        width: 40px;
+        height: 40px;
+    }
+    .four_cert li{
+        margin-left: 7px;
+        margin-right: 15px;
+        font-size: 12px;
+    }
+    .four_cert li p{
+        margin-top: 15px;
+        white-space: nowrap;
+    }
+    .cert_title{
+        font-size: 24px;
+        height: 50px;
+        line-height: 50px;
+    }
+    .certificates{
+        height: auto;
+    }
+    footer{
+        height: 80px;
+        line-height: 80px;
+    }
+    .footer_wrap ul li a{
+        letter-spacing: 0;
+        font-size: 12px;
+        padding: 0;
+    }
+    .footer_wrap ul{
+        margin-bottom: 0;
+    }
+    .footer_wrap ul li a:after{
+        margin-left: 5px;
+    }
+    .super{
+       display: none;
+    }
+    .modal_content_self{
+        left: 15%;
+        width: auto;
+    }
+    .modal_dialog_self{
+        margin-left: -180px;
+    }
+    .modal-body .phone{
+        padding-left: 13%;
+    }
+    .modal-body .pass{
+        padding-left: 13%;
+    }
+    #reg_modal{
+        margin-left: -230px;
+    }
+    #findpass_modal{
+        margin-left: -230px;
+    }
+      .f1 span{
+        font-size: 35px;
+        line-height: 35px;
+    }
+    .f1{
+        height: 170px;
+    }
+    .poster{
+        padding-top: 20px;
+    }
+    .f1 em{
+        font-size: 25px;
+        padding-top: 10px;
+    }
+    .slogan{
+        padding-top: 0;
+    }
+     .phone_nav{
+        top: 60px;
+        height: 350px;
+    }
+    .bg_img{
+        width: 70px;
+        height: 70px;
+    }
+    .commen_input{
+        height: 50px;
+    }
+    .list_title p{
+          display: none;
+         }
+         .list_img{
+          width: 110px;
+          height: 85px;
+          background-size: cover;
+          background-position: center;
+         }
+    .news_list {
+        margin: 0 auto;
+        margin-top: 20px;
+        width: 100%;
+        height: auto;
+        display: box;
+        display: flex;
+        display: -webkit-box; /* OLD - iOS 6-, Safari 3.1-6 */
+        display: -moz-box; /* OLD - Firefox 19- (buggy but mostly works) */
+        display: -ms-flexbox; /* TWEENER - IE 10 */
+        display: -webkit-flex; /* NEW - Chrome */
+        border-bottom: 1px solid #ccc;
+        margin-left: 15px;
+        padding-bottom: 10px;
+    }
+    .list_title h3{
+        font-size: 14px;
+    }
+    .list_title span{
+        font-size: 12px;
+    }
+    .new_detail{
+        width: 100%;
+    }
+    .n_detail{
+        padding: 15px;
+    }
+}
+
+
+@media (max-width: 435px){
+	.nav_icon{
+        display: inline-block;
+        float: right;
+    }
+    .navbar{
+        display: none;
+    }
+    .about_nav{
+        width: 100%;
+        text-align: center;
+        margin-top: -50px;
+        border-bottom: 1px solid #000;
+        padding-bottom: 10px;
+        margin-top: 5px;
+    }
+    .about_nav  ul li{
+        float: left;
+        width: 33%;
+        border-bottom: none;
+        padding: 0;
+    }
+    .about_container{
+        display: inline-block;
+        width: 100%;
+    }
+    .container_right{
+        display: block;
+    }
+    .header_wraper{
+    	height: 60px;
+		font-size: 18px;
+		font-family: "微软雅黑";
+		line-height: 60px;
+		max-width: 100%;
+		margin:0 auto;
+        padding-left: 15px;
+    }
+    .logo img{
+        // width: 120px;
+        // height: 30px;
+        // vertical-align: center;
+        display: none;
+    }
+    .logo{
+        margin: 0;
+        margin-top: 15px;
+        height: 50px;
+    }
+    .logo a{
+        background: url(../img/logo@2x.png);
+        display: inline-block;
+        background-size: contain;
+        background-repeat: no-repeat;
+        width: 155px;
+        height: 50px;
+    }
+    @keyframes mymove{
+		from {margin-left:-585px;opacity: 0}
+		to {margin-left:20%;opacity: 1}
+	}
+	@-webkit-keyframes mymove{
+		from {margin-left:-585px;opacity: 0}
+		to {margin-left:20%;opacity: 1}
+	}
+    @keyframes rightmove{
+		from {margin-right:-600px;opacity: 0}
+		to {margin-right:0;opacity: 1}
+	} 
+	@-webkit-keyframes rightmove{
+		from {margin-right:-600px;opacity: 0}
+		to {margin-right:0;opacity: 1}
+	}
+    .roate{
+        animation: mymove 4s forwards;
+        -webkit-animation:mymove 4s forwards;
+    }
+	.left,.left_two,.left_three,.left_five{
+		float: none;
+		position: absolute;
+		top: 560px;
+	}
+    .left_four{
+        float: none;
+        position: absolute;
+        top: 400px;
+    }
+    .left img{
+    	width: 250px;
+    }
+    .left_two img{
+        width: 250px;
+    }
+    .left_three img{
+        width: 250px;
+    }
+    .left_four img{
+        width: 250px;
+    }
+    .left_five img{
+        width: 250px;
+    }
+  
+    .right{
+    	float: none;
+		position: absolute;
+    	top: 0;
+		padding-top: 0;
+		margin-left: 40px;
+		width: 100%;
+        height: 600px;
+        
+      
+	}
+	.right_top img{
+		width: 50px;
+	}
+	
+	.right_bottom{
+		position: absolute;
+		top: 250px;
+        
+	}
+	h2{
+		font-size: 30px;
+		border-bottom: 1px solid #000;
+		display: inline-block;
+		margin-bottom: 15px;
+	}
+	.down_app .down_app_intro p{
+		font-size: 20px;
+		margin-top: 10px;	
+	}
+	.down_app_intro{
+		margin-left: 0;
+	}
+	.down_btn{
+		margin-top: 20px;
+	}
+	.down_btn li:first-child{
+		margin-bottom: 20px;
+	}
+	.down_btn li img{
+		width: 120px;
+		height: 50px;
+	}
+	.down_scan img{
+		width: 160px;
+		height: 160px;
+	}
+    .common_right {
+    	margin: 0 auto;
+    }
+    .inner_container{
+    	padding-top: 20px;
+    }
+    .intro_word{
+      width: 100%;
+    }
+    .intro_word p{
+    	font-size: 18px;
+    }
+    .common_right p{
+    	width: 100%;
+    }
+    .common_right_bottom{
+    	width: 370px;
+    }
+    .part_time{
+    	height: 900px;
+    }
+    .part_time .left{
+    	top: 450px;
+    }
+    .four_cert img{
+    	width: 40px;
+    	height: 40px;
+    }
+    .four_cert li{
+    	margin-left: 7px;
+    	margin-right: 4px;
+    	font-size: 12px;
+    }
+    .four_cert li p{
+    	margin-top: 15px;
+    	white-space: nowrap;
+    }
+    .cert_title{
+    	font-size: 24px;
+    	height: 50px;
+    	line-height: 50px;
+    }
+    .certificates{
+    	height: auto;
+    }
+    footer{
+    	height: 80px;
+    	line-height: 80px;
+    }
+    .footer_wrap ul li a{
+    	letter-spacing: 0;
+    	font-size: 12px;
+    	padding: 0;
+    }
+    .footer_wrap ul{
+    	margin-bottom: 0;
+    }
+    .footer_wrap ul li a:after{
+    	margin-left: 5px;
+    }
+    .super{
+       display: none;
+    }
+    .modal_content_self{
+    	left: 15%;
+    	width: auto;
+    }
+    .modal_dialog_self{
+    	margin-left: -180px;
+    }
+    .modal-body .phone{
+    	padding-left: 13%;
+    }
+    .modal-body .pass{
+    	padding-left: 13%;
+    }
+    #reg_modal{
+    	margin-left: -230px;
+    }
+    #findpass_modal{
+    	margin-left: -230px;
+    }
+      .f1 span{
+    	font-size: 35px;
+    	line-height: 35px;
+    }
+    .f1{
+    	height: 170px;
+    }
+    .poster{
+    	padding-top: 20px;
+    }
+    .f1 em{
+    	font-size: 25px;
+    	padding-top: 10px;
+    }
+    .slogan{
+    	padding-top: 0;
+    }
+     .phone_nav{
+    	top: 60px;
+    	height: 350px;
+        margin-left: -15px;
+    }
+    .bg_img{
+    	width: 70px;
+    	height: 70px;
+    }
+    .commen_input{
+    	height: 50px;
+    }
+      /*人才平台*/
+    #change{
+    	width: 110px;
+    }
+    #change span{
+    	font-size: 15px;
+    }
+    .bn_img{
+    	width: 120px;
+    }
+    #container_right{
+    	margin-right: 0;
+    	margin-left: 0;
+    }
+    .ban_b{
+    	height: 50px;
+    	width: 120px;
+    }
+    #banner{
+    	height: 200px;
+    	width: 100%;
+    }
+    .about_container .name_show{
+    	position: absolute;
+    	bottom: 30px;
+    	font-size: 12px;
+    }
+    .about_container .career{
+    	bottom: 16px;
+    	font-size: 12px;
+    }
+    .about_container .ID_show{
+    	bottom: 2px;
+    	font-size: 12px;
+    }
+    .close_b{
+    	width: 20px;
+    }
+    .about_container .resume_style{
+    	bottom: 12px;
+    	font-size: 16px;
+    } 
+    /*新闻*/
+  .new  .imgone{
+    	height: 120px;
+    	width: 150px;
+    }
+    .imgtwo{
+    	width: 150px;
+    }
+    .weixin{
+    	width: 350px;
+    }
+    .main .new{
+    	height: 120px;
+    }
+    .news_list {
+    margin: 0 auto;
+    margin-top: 20px;
+    display: box;
+        display: flex;
+        display: -webkit-box; /* OLD - iOS 6-, Safari 3.1-6 */
+        display: -moz-box; /* OLD - Firefox 19- (buggy but mostly works) */
+        display: -ms-flexbox; /* TWEENER - IE 10 */
+        display: -webkit-flex; /* NEW - Chrome */
+    border-bottom: 1px solid #ccc;
+    margin-left: 15px;
+    padding-bottom: 10px;
+    width: 100%;
+    height: auto;
+}
+    /*教育超市*/
+   .main .prompt_tone{
+   	 margin-top: 100px;
+   }
+   .main_img{
+   	width: 250px;
+   }
+   .read{
+   	width: 350px;
+   }
+   .list_title p{
+          display: none;
+         }
+         .list_img{
+          width: 110px;
+          height: 85px;
+          background-size: cover;
+          background-position: center;
+         }
+         .list_title h3{
+        font-size: 14px;
+    }
+    .list_title span{
+        font-size: 12px;
+    }
+    .new_detail{
+        width: 100%;
+    }
+    .n_detail{
+        padding: 15px;
+    }
+}
+@media  (max-width:361px ) {
+	.nav_icon{
+        display: inline-block;
+        float: right;
+      }
+    .navbar{
+        display: none;
+    }
+	.header_wraper{
+		height: 45px;
+		font-size: 18px;
+		font-family: "微软雅黑";
+		line-height: 45px;
+		max-width: 100%;
+		margin:0 auto;
+        padding-left: 15px;
+	}
+	.logo img{
+		// width: 120px;
+		// height: 30px;
+		// vertical-align: center;
+        display: none;
+	}
+	.logo{
+		margin: 0;
+        margin-top: 5px;
+        height: 30px;
+	}
+    .logo a{
+        background: url(../img/logo@2x.png);
+        display: inline-block;
+        background-size: contain;
+        background-repeat: no-repeat;
+        width: 155px;
+        height: 50px;
+    }
+	.right{
+    	
+		width: 100%;
+	}
+	.down_btn li img{
+		width:100px;
+		height:40px;
+	}
+	.down_scan img{
+	    width: 120px;
+	    height: 120px;
+	    margin-top: 10px;	
+	}
+	.down_btn{
+		margin-left: 20px;
+	}
+	.down_app .down_app_intro p{
+		font-size: 15px;
+	}
+    #n_identi_code_btn{
+        margin-left: 0;
+    }
+	@keyframes mymove{
+		from {margin-left:-585px;opacity: 0}
+		to {margin-left:15%;opacity: 1}
+	}
+	@-webkit-keyframes mymove{
+		from {margin-left:-585px;opacity: 0}
+		to {margin-left:15%;opacity: 1}
+	}
+    .roate{
+        animation: mymove 4s forwards;
+        -webkit-animation:mymove 4s forwards;
+    }
+    .left,.left_two,.left_three,.left_five{
+        float: none;
+        position: absolute;
+        top: 520px;
+    }
+	.common_right_bottom{
+		width: 300px;
+	}
+	.four_cert li p{
+		white-space: normal;
+		width: 60px;
+	}
+	.four_cert li{
+		margin-left: 20px;
+	}
+	.cert_container{
+		padding-top: 20px;
+	}
+	.footer_wrap ul li{
+		margin-left: 0;
+		text-align: center;
+	}
+	.phone_nav{
+		top: 45px;
+		height: 290px;
+        margin-left: -15px;
+	}
+	.modal_content_self{
+    	left: 30%;
+    	width: 250px;
+    	margin:70px auto;
+    	
+    }
+    .login_logo{
+    	margin-right: -5px;
+    }
+    .modal-body .phone{
+    	padding-left: 20%;
+    	height: 45px;
+    }
+    #identi_code_btn{
+    	margin-left: 0;
+    }
+    .modal-body .pass{
+    	padding-left: 20%;
+    	height: 45px;
+    }
+    #reg_modal{
+    	margin-left: -200px;
+    }
+    #findpass_modal{
+    	margin-left: -200px;
+    }
+    .hascount_tip{
+    	margin-left: 120px;
+    }
+    .commen_input{
+    	padding-left: 20px;
+    	height: 45px;
+    	margin-bottom: 10px;
+    }
+    .modal_login{
+    	height: 45px;
+    }
+    .f1 span{
+    	font-size: 30px;
+    	line-height: 35px;
+    }
+    .about_nav  ul li{
+    	width:33%;
+    }
+    .bg_img{
+    	width: 50px;
+    	height: 50px;
+    }
+    .prompt{
+    	margin-left: 10px;
+    }
+    .modal_dialog_self{
+    	margin-left: -200px;
+    }
+    .pass_num_tip{
+    	width: 80%;
+    }
+    /*人才平台*/
+    #change{
+    	width: 63px;
+    }
+    #change span{
+    	font-size: 15px;
+    }
+    .bn_img{
+    	width: 100px;
+    }
+    #container_right{
+    	margin-right: 0;
+    	margin-left: 0;
+    }
+    .ban_b{
+    	height: 50px;
+    	width: 100px;
+    }
+    #banner{
+    	height: 200px;
+    	width: 100%;
+    }
+    .about_container .name_show{
+    	position: absolute;
+    	bottom: 30px;
+    	font-size: 12px;
+    }
+    .about_container .career{
+    	bottom: 16px;
+    	font-size: 12px;
+    }
+    .about_container .ID_show{
+    	bottom: 2px;
+    	font-size: 12px;
+    }
+    .close_b{
+    	width: 20px;
+    }
+    .about_container .resume_style{
+    	bottom: 12px;
+    	font-size: 16px;
+    } 
+    /*新闻*/
+  .new  .imgone{
+    	height: 120px;
+    	width: 150px;
+    }
+    .imgtwo{
+    	width: 150px;
+    }
+    .weixin{
+    	width: 300px;
+    }
+    .main .new{
+    	height: 120px;
+    	margin-top: 100px;
+    }
+     /*教育超市*/
+   .main .prompt_tone{
+   	 margin-top: 100px;
+   }
+   .main_img{
+   	width: 250px;
+   }
+   .read{
+   	width: 320px;
+   }
+   .list_title p{
+          display: none;
+         }
+         .list_img{
+          width: 110px;
+          height: 85px;
+          background-size: cover;
+          background-position: center;
+         }
+    .news_list {
+    margin: 0 auto;
+    margin-top: 20px;
+    display: box;
+        display: flex;
+        display: -webkit-box; /* OLD - iOS 6-, Safari 3.1-6 */
+        display: -moz-box; /* OLD - Firefox 19- (buggy but mostly works) */
+        display: -ms-flexbox; /* TWEENER - IE 10 */
+        display: -webkit-flex; /* NEW - Chrome */
+    border-bottom: 1px solid #ccc;
+    margin-left: 15px;
+    padding-bottom: 10px;
+    width: 100%;
+    height: auto;
+}
+.list_title h3{
+        font-size: 14px;
+    }
+    .list_title span{
+        font-size: 12px;
+    }
+    .new_detail{
+        width: 100%;
+    }
+    .n_detail{
+        padding: 15px;
+    }
+}
+/*@media  (min-width:326px )and(max-width:370px) {
+	.right_top{
+		margin-left: 17px;
+	}
+	.down_scan{
+		margin-left: 10px;
+	}
+	.down_btn li img{
+		width: 110px;
+		height: 40px;
+	}
+	.logo img{
+		width: 150px;
+		height: 35px;
+	}
+	@keyframes mymove{
+		from {margin-left:-585px;opacity: 0}
+		to {margin-left:17%;opacity: 1}
+	}
+	@-webkit-keyframes mymove{
+		from {margin-left:-585px;opacity: 0}
+		to {margin-left:17%;opacity: 1}
+	}
+	.four_cert li p{
+		white-space: normal;
+		width: 60px;
+	}
+	.four_cert li{
+		margin-left: 20px;
+	}
+	.footer_wrap ul li{
+		margin-left: 3px;
+	}
+	.common_right_bottom img{
+		width: 90%;
+	}
+}*/
+@media(max-width:320px){
+    .right{
+        margin-left:10px;
+    }
+    .four_cert li{
+        margin-left: 15px;
+    }
+    .footer_wrap ul li{
+        margin-right: -5px;
+    }
+    .footer_wrap ul li a:after{
+        margin-left: 3px;
+    }
+    .list_title p{
+          display: none;
+         }
+    .news_list {
+        margin: 0 auto;
+        margin-top: 20px;
+        display: box;
+        display: flex;
+        display: -webkit-box; /* OLD - iOS 6-, Safari 3.1-6 */
+        display: -moz-box; /* OLD - Firefox 19- (buggy but mostly works) */
+        display: -ms-flexbox; /* TWEENER - IE 10 */
+        display: -webkit-flex; /* NEW - Chrome */
+        border-bottom: 1px solid #ccc;
+        margin-left: 15px;
+        padding-bottom: 10px;
+        width: 100%;
+        height: auto;
+    }   
+    .list_title h3{
+        font-size: 14px;
+    }
+    .list_title span{
+        font-size: 12px;
+    }
+    .new_detail{
+        width: 100%;
+    }
+    .n_detail{
+        padding: 15px;
+    }
+}
+@media (min-width: 1024px){
+
+    } /*>=1024的设备*/
+
+    @media (min-width: 1100px) {
+
+        } /*>=1024的设备*/
+        @media (min-width: 1280px) {
+
+        } 
+
+        @media (min-width: 1366px) {
+
+
+        }  
+
+        @media (min-width: 1440px) {
+
+        } 
+
+        @media (min-width: 1680px) {
+
+        } 
+        @media (min-width: 1920px) {
+
+        } 

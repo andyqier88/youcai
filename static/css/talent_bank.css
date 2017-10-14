@@ -1,0 +1,56 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.f1{
+	width: 100%;
+	height: 490px;
+	background-size: cover ;
+}
+@font-face {
+	font-family:'Regular';
+	src: url('Regular.ttf');
+}
+.poster{
+	padding-top: 172px;
+}
+.slogan{
+	padding-top: 40px;
+}
+.f1 span{
+	font-family:'Regular';
+	line-height: 70px;
+	font-size: 72px;
+	color: #4D3704;
+	text-align: center;
+	display: block;
+}
+.f1 em{
+	font-family:'Regular';
+	font-size: 48px;
+	color: #4D3704;
+	padding-top:40px ;
+	font-style: normal;
+	text-align: center;
+	display: block;
+}
+.banner_one{
+	background:url(../img/1@2x.png) no-repeat;	
+	background-size: cover;
+}
+.banner_two{
+	background: url(../img/2@2x.png) no-repeat;
+	background-size: cover;
+}
+.banner_three{
+	background: url(../img/3@2x.png) no-repeat;
+	background-size: cover;
+}
+.banner_four{
+	background: url(../img/4@2x.png) no-repeat;
+	background-size: cover;
+}
+.banner_five{
+	background: url(../img/5@2x.png) no-repeat;
+	background-size: cover;
+}
